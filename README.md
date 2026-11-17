@@ -2,7 +2,7 @@
 
 Countdown and stage timer for speakers and hosts: a rundown of countdown, count-up and time-of-day timers, fullscreen output on any monitor over HDMI or DisplayPort, NDI® and a browser page on the local network, messages to the stage, and control from the app, a phone browser, Bitfocus Companion, an HTTP API and MCP. Free – no licence or key.
 
-**Download:** see [Releases](../../releases/latest) – the newest Windows installer (`Stage-Timer-Setup-x.y.z.exe`, Windows 10/11, 64-bit) and the macOS versions (`Stage-Timer-x.y.z-arm64.dmg` for Apple Silicon, `Stage-Timer-x.y.z-x64.dmg` for Intel).
+**Download:** see [Releases](../../releases/latest) – the newest Windows installer (`Stage-Timer-Setup-x.y.z.exe`, Windows 10/11, 64-bit) and the macOS version (`Stage-Timer-x.y.z-macOS.dmg`, Apple Silicon + Intel).
 
 The app checks this page once a day for a newer version (only the app version is sent) and shows an **Update** button when there is one. Nothing is downloaded or installed by itself.
 
